@@ -12,12 +12,6 @@ wheels/
 # Environment variables / secrets
 .env
 
-# Data
-data/
-
-# Trained ML models
-models/
-
 # Jupyter
 .ipynb_checkpoints/
 

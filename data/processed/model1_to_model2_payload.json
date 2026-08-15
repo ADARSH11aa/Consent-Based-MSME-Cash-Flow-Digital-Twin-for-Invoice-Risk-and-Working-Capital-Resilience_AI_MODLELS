@@ -1,0 +1,2431 @@
+[
+  {
+    "invoice_id": "INV700035",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 65,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV700040",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 65,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV700041",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 67,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV700042",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 65,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV700043",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 67,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV700044",
+    "customer_id": "C1000",
+    "p10_payment_days": 59,
+    "p50_payment_days": 67,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV700082",
+    "customer_id": "C1001",
+    "p10_payment_days": 84,
+    "p50_payment_days": 91,
+    "p90_payment_days": 97
+  },
+  {
+    "invoice_id": "INV700122",
+    "customer_id": "C1002",
+    "p10_payment_days": 30,
+    "p50_payment_days": 38,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV700127",
+    "customer_id": "C1002",
+    "p10_payment_days": 29,
+    "p50_payment_days": 40,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV700128",
+    "customer_id": "C1002",
+    "p10_payment_days": 29,
+    "p50_payment_days": 40,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV700129",
+    "customer_id": "C1002",
+    "p10_payment_days": 29,
+    "p50_payment_days": 40,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV700156",
+    "customer_id": "C1003",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 79
+  },
+  {
+    "invoice_id": "INV700157",
+    "customer_id": "C1003",
+    "p10_payment_days": 59,
+    "p50_payment_days": 71,
+    "p90_payment_days": 79
+  },
+  {
+    "invoice_id": "INV700158",
+    "customer_id": "C1003",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 79
+  },
+  {
+    "invoice_id": "INV700159",
+    "customer_id": "C1003",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 79
+  },
+  {
+    "invoice_id": "INV700195",
+    "customer_id": "C1004",
+    "p10_payment_days": 17,
+    "p50_payment_days": 30,
+    "p90_payment_days": 54
+  },
+  {
+    "invoice_id": "INV700196",
+    "customer_id": "C1004",
+    "p10_payment_days": 17,
+    "p50_payment_days": 30,
+    "p90_payment_days": 54
+  },
+  {
+    "invoice_id": "INV700197",
+    "customer_id": "C1004",
+    "p10_payment_days": 17,
+    "p50_payment_days": 30,
+    "p90_payment_days": 54
+  },
+  {
+    "invoice_id": "INV700247",
+    "customer_id": "C1006",
+    "p10_payment_days": 58,
+    "p50_payment_days": 84,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700262",
+    "customer_id": "C1006",
+    "p10_payment_days": 58,
+    "p50_payment_days": 80,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700263",
+    "customer_id": "C1006",
+    "p10_payment_days": 58,
+    "p50_payment_days": 84,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700264",
+    "customer_id": "C1006",
+    "p10_payment_days": 58,
+    "p50_payment_days": 84,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700275",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700308",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700309",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700310",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV700311",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV700312",
+    "customer_id": "C1008",
+    "p10_payment_days": 29,
+    "p50_payment_days": 34,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV700321",
+    "customer_id": "C1009",
+    "p10_payment_days": 44,
+    "p50_payment_days": 50,
+    "p90_payment_days": 60
+  },
+  {
+    "invoice_id": "INV700322",
+    "customer_id": "C1009",
+    "p10_payment_days": 44,
+    "p50_payment_days": 50,
+    "p90_payment_days": 60
+  },
+  {
+    "invoice_id": "INV700323",
+    "customer_id": "C1009",
+    "p10_payment_days": 44,
+    "p50_payment_days": 50,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV700328",
+    "customer_id": "C1011",
+    "p10_payment_days": 45,
+    "p50_payment_days": 55,
+    "p90_payment_days": 62
+  },
+  {
+    "invoice_id": "INV700350",
+    "customer_id": "C1011",
+    "p10_payment_days": 45,
+    "p50_payment_days": 56,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV700351",
+    "customer_id": "C1011",
+    "p10_payment_days": 45,
+    "p50_payment_days": 56,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV700369",
+    "customer_id": "C1012",
+    "p10_payment_days": 47,
+    "p50_payment_days": 55,
+    "p90_payment_days": 63
+  },
+  {
+    "invoice_id": "INV700407",
+    "customer_id": "C1013",
+    "p10_payment_days": 53,
+    "p50_payment_days": 75,
+    "p90_payment_days": 89
+  },
+  {
+    "invoice_id": "INV700408",
+    "customer_id": "C1013",
+    "p10_payment_days": 53,
+    "p50_payment_days": 74,
+    "p90_payment_days": 89
+  },
+  {
+    "invoice_id": "INV700409",
+    "customer_id": "C1013",
+    "p10_payment_days": 53,
+    "p50_payment_days": 72,
+    "p90_payment_days": 89
+  },
+  {
+    "invoice_id": "INV700422",
+    "customer_id": "C1014",
+    "p10_payment_days": 55,
+    "p50_payment_days": 63,
+    "p90_payment_days": 68
+  },
+  {
+    "invoice_id": "INV700450",
+    "customer_id": "C1014",
+    "p10_payment_days": 55,
+    "p50_payment_days": 63,
+    "p90_payment_days": 67
+  },
+  {
+    "invoice_id": "INV700463",
+    "customer_id": "C1015",
+    "p10_payment_days": 28,
+    "p50_payment_days": 32,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700496",
+    "customer_id": "C1015",
+    "p10_payment_days": 28,
+    "p50_payment_days": 31,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700519",
+    "customer_id": "C1016",
+    "p10_payment_days": 26,
+    "p50_payment_days": 28,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV700536",
+    "customer_id": "C1016",
+    "p10_payment_days": 26,
+    "p50_payment_days": 28,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV700587",
+    "customer_id": "C1018",
+    "p10_payment_days": 28,
+    "p50_payment_days": 38,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV700594",
+    "customer_id": "C1019",
+    "p10_payment_days": 28,
+    "p50_payment_days": 32,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700622",
+    "customer_id": "C1019",
+    "p10_payment_days": 28,
+    "p50_payment_days": 33,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700651",
+    "customer_id": "C1020",
+    "p10_payment_days": 65,
+    "p50_payment_days": 71,
+    "p90_payment_days": 74
+  },
+  {
+    "invoice_id": "INV700652",
+    "customer_id": "C1020",
+    "p10_payment_days": 65,
+    "p50_payment_days": 71,
+    "p90_payment_days": 74
+  },
+  {
+    "invoice_id": "INV700653",
+    "customer_id": "C1020",
+    "p10_payment_days": 65,
+    "p50_payment_days": 70,
+    "p90_payment_days": 75
+  },
+  {
+    "invoice_id": "INV700667",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 88,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700672",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 79,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700691",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700693",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700694",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 88,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700695",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV700696",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 82,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700697",
+    "customer_id": "C1021",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV700761",
+    "customer_id": "C1023",
+    "p10_payment_days": 28,
+    "p50_payment_days": 32,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV700809",
+    "customer_id": "C1024",
+    "p10_payment_days": 14,
+    "p50_payment_days": 22,
+    "p90_payment_days": 30
+  },
+  {
+    "invoice_id": "INV700831",
+    "customer_id": "C1025",
+    "p10_payment_days": 44,
+    "p50_payment_days": 53,
+    "p90_payment_days": 62
+  },
+  {
+    "invoice_id": "INV700866",
+    "customer_id": "C1026",
+    "p10_payment_days": 43,
+    "p50_payment_days": 57,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV700893",
+    "customer_id": "C1027",
+    "p10_payment_days": 26,
+    "p50_payment_days": 35,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV700894",
+    "customer_id": "C1027",
+    "p10_payment_days": 26,
+    "p50_payment_days": 35,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV700935",
+    "customer_id": "C1029",
+    "p10_payment_days": 39,
+    "p50_payment_days": 48,
+    "p90_payment_days": 52
+  },
+  {
+    "invoice_id": "INV700976",
+    "customer_id": "C1031",
+    "p10_payment_days": 40,
+    "p50_payment_days": 52,
+    "p90_payment_days": 62
+  },
+  {
+    "invoice_id": "INV700977",
+    "customer_id": "C1031",
+    "p10_payment_days": 42,
+    "p50_payment_days": 52,
+    "p90_payment_days": 61
+  },
+  {
+    "invoice_id": "INV700978",
+    "customer_id": "C1031",
+    "p10_payment_days": 42,
+    "p50_payment_days": 52,
+    "p90_payment_days": 61
+  },
+  {
+    "invoice_id": "INV700985",
+    "customer_id": "C1032",
+    "p10_payment_days": 25,
+    "p50_payment_days": 29,
+    "p90_payment_days": 32
+  },
+  {
+    "invoice_id": "INV701004",
+    "customer_id": "C1032",
+    "p10_payment_days": 25,
+    "p50_payment_days": 29,
+    "p90_payment_days": 32
+  },
+  {
+    "invoice_id": "INV701043",
+    "customer_id": "C1033",
+    "p10_payment_days": 46,
+    "p50_payment_days": 54,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701056",
+    "customer_id": "C1033",
+    "p10_payment_days": 46,
+    "p50_payment_days": 52,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701091",
+    "customer_id": "C1035",
+    "p10_payment_days": 57,
+    "p50_payment_days": 62,
+    "p90_payment_days": 71
+  },
+  {
+    "invoice_id": "INV701140",
+    "customer_id": "C1038",
+    "p10_payment_days": 43,
+    "p50_payment_days": 57,
+    "p90_payment_days": 96
+  },
+  {
+    "invoice_id": "INV701141",
+    "customer_id": "C1038",
+    "p10_payment_days": 43,
+    "p50_payment_days": 57,
+    "p90_payment_days": 141
+  },
+  {
+    "invoice_id": "INV701158",
+    "customer_id": "C1039",
+    "p10_payment_days": 44,
+    "p50_payment_days": 57,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701183",
+    "customer_id": "C1039",
+    "p10_payment_days": 45,
+    "p50_payment_days": 57,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701219",
+    "customer_id": "C1040",
+    "p10_payment_days": 16,
+    "p50_payment_days": 36,
+    "p90_payment_days": 116
+  },
+  {
+    "invoice_id": "INV701245",
+    "customer_id": "C1041",
+    "p10_payment_days": 26,
+    "p50_payment_days": 30,
+    "p90_payment_days": 36
+  },
+  {
+    "invoice_id": "INV701246",
+    "customer_id": "C1041",
+    "p10_payment_days": 26,
+    "p50_payment_days": 31,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV701247",
+    "customer_id": "C1041",
+    "p10_payment_days": 26,
+    "p50_payment_days": 31,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV701271",
+    "customer_id": "C1042",
+    "p10_payment_days": 28,
+    "p50_payment_days": 36,
+    "p90_payment_days": 42
+  },
+  {
+    "invoice_id": "INV701307",
+    "customer_id": "C1043",
+    "p10_payment_days": 55,
+    "p50_payment_days": 66,
+    "p90_payment_days": 104
+  },
+  {
+    "invoice_id": "INV701390",
+    "customer_id": "C1046",
+    "p10_payment_days": 25,
+    "p50_payment_days": 29,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV701422",
+    "customer_id": "C1048",
+    "p10_payment_days": 27,
+    "p50_payment_days": 36,
+    "p90_payment_days": 51
+  },
+  {
+    "invoice_id": "INV701423",
+    "customer_id": "C1048",
+    "p10_payment_days": 28,
+    "p50_payment_days": 38,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV701424",
+    "customer_id": "C1048",
+    "p10_payment_days": 27,
+    "p50_payment_days": 38,
+    "p90_payment_days": 61
+  },
+  {
+    "invoice_id": "INV701493",
+    "customer_id": "C1050",
+    "p10_payment_days": 26,
+    "p50_payment_days": 38,
+    "p90_payment_days": 109
+  },
+  {
+    "invoice_id": "INV701504",
+    "customer_id": "C1050",
+    "p10_payment_days": 26,
+    "p50_payment_days": 38,
+    "p90_payment_days": 109
+  },
+  {
+    "invoice_id": "INV701545",
+    "customer_id": "C1052",
+    "p10_payment_days": 41,
+    "p50_payment_days": 54,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV701560",
+    "customer_id": "C1052",
+    "p10_payment_days": 41,
+    "p50_payment_days": 53,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV701602",
+    "customer_id": "C1053",
+    "p10_payment_days": 54,
+    "p50_payment_days": 58,
+    "p90_payment_days": 67
+  },
+  {
+    "invoice_id": "INV701603",
+    "customer_id": "C1053",
+    "p10_payment_days": 54,
+    "p50_payment_days": 58,
+    "p90_payment_days": 67
+  },
+  {
+    "invoice_id": "INV701604",
+    "customer_id": "C1053",
+    "p10_payment_days": 54,
+    "p50_payment_days": 59,
+    "p90_payment_days": 69
+  },
+  {
+    "invoice_id": "INV701619",
+    "customer_id": "C1054",
+    "p10_payment_days": 41,
+    "p50_payment_days": 45,
+    "p90_payment_days": 52
+  },
+  {
+    "invoice_id": "INV701623",
+    "customer_id": "C1054",
+    "p10_payment_days": 41,
+    "p50_payment_days": 45,
+    "p90_payment_days": 52
+  },
+  {
+    "invoice_id": "INV701624",
+    "customer_id": "C1054",
+    "p10_payment_days": 40,
+    "p50_payment_days": 45,
+    "p90_payment_days": 52
+  },
+  {
+    "invoice_id": "INV701642",
+    "customer_id": "C1055",
+    "p10_payment_days": 36,
+    "p50_payment_days": 82,
+    "p90_payment_days": 117
+  },
+  {
+    "invoice_id": "INV701649",
+    "customer_id": "C1055",
+    "p10_payment_days": 36,
+    "p50_payment_days": 80,
+    "p90_payment_days": 96
+  },
+  {
+    "invoice_id": "INV701650",
+    "customer_id": "C1055",
+    "p10_payment_days": 36,
+    "p50_payment_days": 80,
+    "p90_payment_days": 96
+  },
+  {
+    "invoice_id": "INV701673",
+    "customer_id": "C1057",
+    "p10_payment_days": 59,
+    "p50_payment_days": 63,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701700",
+    "customer_id": "C1058",
+    "p10_payment_days": 27,
+    "p50_payment_days": 31,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV701756",
+    "customer_id": "C1059",
+    "p10_payment_days": 43,
+    "p50_payment_days": 64,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701806",
+    "customer_id": "C1060",
+    "p10_payment_days": 35,
+    "p50_payment_days": 63,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV701829",
+    "customer_id": "C1061",
+    "p10_payment_days": 40,
+    "p50_payment_days": 50,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701830",
+    "customer_id": "C1061",
+    "p10_payment_days": 40,
+    "p50_payment_days": 50,
+    "p90_payment_days": 66
+  },
+  {
+    "invoice_id": "INV701855",
+    "customer_id": "C1062",
+    "p10_payment_days": 39,
+    "p50_payment_days": 43,
+    "p90_payment_days": 49
+  },
+  {
+    "invoice_id": "INV701856",
+    "customer_id": "C1062",
+    "p10_payment_days": 38,
+    "p50_payment_days": 42,
+    "p90_payment_days": 56
+  },
+  {
+    "invoice_id": "INV701889",
+    "customer_id": "C1065",
+    "p10_payment_days": 78,
+    "p50_payment_days": 86,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV701890",
+    "customer_id": "C1065",
+    "p10_payment_days": 78,
+    "p50_payment_days": 86,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV701891",
+    "customer_id": "C1065",
+    "p10_payment_days": 78,
+    "p50_payment_days": 86,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV701943",
+    "customer_id": "C1067",
+    "p10_payment_days": 47,
+    "p50_payment_days": 54,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV701944",
+    "customer_id": "C1067",
+    "p10_payment_days": 47,
+    "p50_payment_days": 55,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701945",
+    "customer_id": "C1067",
+    "p10_payment_days": 46,
+    "p50_payment_days": 55,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701946",
+    "customer_id": "C1067",
+    "p10_payment_days": 44,
+    "p50_payment_days": 55,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701947",
+    "customer_id": "C1067",
+    "p10_payment_days": 46,
+    "p50_payment_days": 54,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701948",
+    "customer_id": "C1067",
+    "p10_payment_days": 46,
+    "p50_payment_days": 55,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV701958",
+    "customer_id": "C1068",
+    "p10_payment_days": 29,
+    "p50_payment_days": 36,
+    "p90_payment_days": 41
+  },
+  {
+    "invoice_id": "INV701997",
+    "customer_id": "C1069",
+    "p10_payment_days": 42,
+    "p50_payment_days": 45,
+    "p90_payment_days": 49
+  },
+  {
+    "invoice_id": "INV701998",
+    "customer_id": "C1069",
+    "p10_payment_days": 42,
+    "p50_payment_days": 45,
+    "p90_payment_days": 49
+  },
+  {
+    "invoice_id": "INV702036",
+    "customer_id": "C1070",
+    "p10_payment_days": 43,
+    "p50_payment_days": 60,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV702037",
+    "customer_id": "C1070",
+    "p10_payment_days": 43,
+    "p50_payment_days": 62,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV702038",
+    "customer_id": "C1070",
+    "p10_payment_days": 43,
+    "p50_payment_days": 60,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV702039",
+    "customer_id": "C1070",
+    "p10_payment_days": 43,
+    "p50_payment_days": 61,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV702069",
+    "customer_id": "C1071",
+    "p10_payment_days": 46,
+    "p50_payment_days": 79,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV702078",
+    "customer_id": "C1071",
+    "p10_payment_days": 46,
+    "p50_payment_days": 79,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV702085",
+    "customer_id": "C1071",
+    "p10_payment_days": 47,
+    "p50_payment_days": 79,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV702099",
+    "customer_id": "C1072",
+    "p10_payment_days": 56,
+    "p50_payment_days": 61,
+    "p90_payment_days": 67
+  },
+  {
+    "invoice_id": "INV702100",
+    "customer_id": "C1072",
+    "p10_payment_days": 56,
+    "p50_payment_days": 61,
+    "p90_payment_days": 67
+  },
+  {
+    "invoice_id": "INV702181",
+    "customer_id": "C1075",
+    "p10_payment_days": 41,
+    "p50_payment_days": 46,
+    "p90_payment_days": 51
+  },
+  {
+    "invoice_id": "INV702235",
+    "customer_id": "C1078",
+    "p10_payment_days": 29,
+    "p50_payment_days": 38,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702271",
+    "customer_id": "C1078",
+    "p10_payment_days": 29,
+    "p50_payment_days": 37,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702272",
+    "customer_id": "C1078",
+    "p10_payment_days": 29,
+    "p50_payment_days": 37,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702273",
+    "customer_id": "C1078",
+    "p10_payment_days": 29,
+    "p50_payment_days": 38,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702289",
+    "customer_id": "C1079",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV702295",
+    "customer_id": "C1079",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV702306",
+    "customer_id": "C1079",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV702318",
+    "customer_id": "C1079",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV702329",
+    "customer_id": "C1080",
+    "p10_payment_days": 28,
+    "p50_payment_days": 38,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702394",
+    "customer_id": "C1081",
+    "p10_payment_days": 66,
+    "p50_payment_days": 82,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV702395",
+    "customer_id": "C1081",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV702396",
+    "customer_id": "C1081",
+    "p10_payment_days": 66,
+    "p50_payment_days": 86,
+    "p90_payment_days": 113
+  },
+  {
+    "invoice_id": "INV702397",
+    "customer_id": "C1081",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV702398",
+    "customer_id": "C1081",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 105
+  },
+  {
+    "invoice_id": "INV702434",
+    "customer_id": "C1082",
+    "p10_payment_days": 25,
+    "p50_payment_days": 33,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV702435",
+    "customer_id": "C1082",
+    "p10_payment_days": 24,
+    "p50_payment_days": 35,
+    "p90_payment_days": 59
+  },
+  {
+    "invoice_id": "INV702464",
+    "customer_id": "C1083",
+    "p10_payment_days": 57,
+    "p50_payment_days": 66,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV702493",
+    "customer_id": "C1084",
+    "p10_payment_days": 29,
+    "p50_payment_days": 36,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702494",
+    "customer_id": "C1084",
+    "p10_payment_days": 29,
+    "p50_payment_days": 37,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV702506",
+    "customer_id": "C1085",
+    "p10_payment_days": 28,
+    "p50_payment_days": 35,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV702517",
+    "customer_id": "C1085",
+    "p10_payment_days": 28,
+    "p50_payment_days": 35,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV702594",
+    "customer_id": "C1087",
+    "p10_payment_days": 31,
+    "p50_payment_days": 37,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV702595",
+    "customer_id": "C1087",
+    "p10_payment_days": 32,
+    "p50_payment_days": 37,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV702596",
+    "customer_id": "C1087",
+    "p10_payment_days": 30,
+    "p50_payment_days": 37,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV702597",
+    "customer_id": "C1088",
+    "p10_payment_days": 26,
+    "p50_payment_days": 28,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV702602",
+    "customer_id": "C1088",
+    "p10_payment_days": 26,
+    "p50_payment_days": 29,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV702646",
+    "customer_id": "C1088",
+    "p10_payment_days": 26,
+    "p50_payment_days": 28,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV702647",
+    "customer_id": "C1088",
+    "p10_payment_days": 26,
+    "p50_payment_days": 28,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV702677",
+    "customer_id": "C1091",
+    "p10_payment_days": 26,
+    "p50_payment_days": 38,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV702681",
+    "customer_id": "C1091",
+    "p10_payment_days": 26,
+    "p50_payment_days": 38,
+    "p90_payment_days": 59
+  },
+  {
+    "invoice_id": "INV702733",
+    "customer_id": "C1092",
+    "p10_payment_days": 85,
+    "p50_payment_days": 96,
+    "p90_payment_days": 130
+  },
+  {
+    "invoice_id": "INV702758",
+    "customer_id": "C1093",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV702781",
+    "customer_id": "C1093",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 34
+  },
+  {
+    "invoice_id": "INV702782",
+    "customer_id": "C1094",
+    "p10_payment_days": 39,
+    "p50_payment_days": 48,
+    "p90_payment_days": 60
+  },
+  {
+    "invoice_id": "INV702801",
+    "customer_id": "C1094",
+    "p10_payment_days": 39,
+    "p50_payment_days": 48,
+    "p90_payment_days": 59
+  },
+  {
+    "invoice_id": "INV702861",
+    "customer_id": "C1096",
+    "p10_payment_days": 55,
+    "p50_payment_days": 59,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV702862",
+    "customer_id": "C1096",
+    "p10_payment_days": 55,
+    "p50_payment_days": 59,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV702866",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 66,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702903",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 62,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702904",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 66,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702905",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 62,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702906",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 58,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702907",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 62,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702909",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 62,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702910",
+    "customer_id": "C1098",
+    "p10_payment_days": 47,
+    "p50_payment_days": 62,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702911",
+    "customer_id": "C1098",
+    "p10_payment_days": 43,
+    "p50_payment_days": 65,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV702943",
+    "customer_id": "C1099",
+    "p10_payment_days": 40,
+    "p50_payment_days": 48,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV702954",
+    "customer_id": "C1099",
+    "p10_payment_days": 39,
+    "p50_payment_days": 47,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV702955",
+    "customer_id": "C1099",
+    "p10_payment_days": 39,
+    "p50_payment_days": 47,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV702956",
+    "customer_id": "C1099",
+    "p10_payment_days": 40,
+    "p50_payment_days": 50,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV702957",
+    "customer_id": "C1099",
+    "p10_payment_days": 40,
+    "p50_payment_days": 50,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV702993",
+    "customer_id": "C1100",
+    "p10_payment_days": 40,
+    "p50_payment_days": 42,
+    "p90_payment_days": 45
+  },
+  {
+    "invoice_id": "INV703001",
+    "customer_id": "C1100",
+    "p10_payment_days": 40,
+    "p50_payment_days": 42,
+    "p90_payment_days": 45
+  },
+  {
+    "invoice_id": "INV703002",
+    "customer_id": "C1100",
+    "p10_payment_days": 40,
+    "p50_payment_days": 44,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV703044",
+    "customer_id": "C1102",
+    "p10_payment_days": 48,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV703062",
+    "customer_id": "C1102",
+    "p10_payment_days": 48,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV703077",
+    "customer_id": "C1103",
+    "p10_payment_days": 56,
+    "p50_payment_days": 65,
+    "p90_payment_days": 68
+  },
+  {
+    "invoice_id": "INV703078",
+    "customer_id": "C1103",
+    "p10_payment_days": 62,
+    "p50_payment_days": 65,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV703079",
+    "customer_id": "C1103",
+    "p10_payment_days": 57,
+    "p50_payment_days": 65,
+    "p90_payment_days": 68
+  },
+  {
+    "invoice_id": "INV703080",
+    "customer_id": "C1103",
+    "p10_payment_days": 57,
+    "p50_payment_days": 65,
+    "p90_payment_days": 68
+  },
+  {
+    "invoice_id": "INV703100",
+    "customer_id": "C1104",
+    "p10_payment_days": 28,
+    "p50_payment_days": 30,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV703124",
+    "customer_id": "C1105",
+    "p10_payment_days": 40,
+    "p50_payment_days": 47,
+    "p90_payment_days": 56
+  },
+  {
+    "invoice_id": "INV703155",
+    "customer_id": "C1107",
+    "p10_payment_days": 43,
+    "p50_payment_days": 57,
+    "p90_payment_days": 71
+  },
+  {
+    "invoice_id": "INV703156",
+    "customer_id": "C1107",
+    "p10_payment_days": 39,
+    "p50_payment_days": 53,
+    "p90_payment_days": 71
+  },
+  {
+    "invoice_id": "INV703157",
+    "customer_id": "C1107",
+    "p10_payment_days": 39,
+    "p50_payment_days": 52,
+    "p90_payment_days": 71
+  },
+  {
+    "invoice_id": "INV703202",
+    "customer_id": "C1108",
+    "p10_payment_days": 59,
+    "p50_payment_days": 71,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV703203",
+    "customer_id": "C1108",
+    "p10_payment_days": 57,
+    "p50_payment_days": 71,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV703204",
+    "customer_id": "C1108",
+    "p10_payment_days": 55,
+    "p50_payment_days": 70,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV703205",
+    "customer_id": "C1108",
+    "p10_payment_days": 59,
+    "p50_payment_days": 71,
+    "p90_payment_days": 195
+  },
+  {
+    "invoice_id": "INV703235",
+    "customer_id": "C1109",
+    "p10_payment_days": 58,
+    "p50_payment_days": 92,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV703236",
+    "customer_id": "C1109",
+    "p10_payment_days": 58,
+    "p50_payment_days": 92,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV703237",
+    "customer_id": "C1109",
+    "p10_payment_days": 66,
+    "p50_payment_days": 94,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV703238",
+    "customer_id": "C1109",
+    "p10_payment_days": 66,
+    "p50_payment_days": 93,
+    "p90_payment_days": 124
+  },
+  {
+    "invoice_id": "INV703250",
+    "customer_id": "C1110",
+    "p10_payment_days": 42,
+    "p50_payment_days": 53,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703281",
+    "customer_id": "C1110",
+    "p10_payment_days": 43,
+    "p50_payment_days": 55,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703310",
+    "customer_id": "C1111",
+    "p10_payment_days": 42,
+    "p50_payment_days": 50,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703325",
+    "customer_id": "C1111",
+    "p10_payment_days": 44,
+    "p50_payment_days": 52,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703327",
+    "customer_id": "C1111",
+    "p10_payment_days": 43,
+    "p50_payment_days": 50,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703328",
+    "customer_id": "C1111",
+    "p10_payment_days": 44,
+    "p50_payment_days": 52,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703329",
+    "customer_id": "C1111",
+    "p10_payment_days": 44,
+    "p50_payment_days": 52,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV703341",
+    "customer_id": "C1112",
+    "p10_payment_days": 14,
+    "p50_payment_days": 22,
+    "p90_payment_days": 28
+  },
+  {
+    "invoice_id": "INV703345",
+    "customer_id": "C1113",
+    "p10_payment_days": 87,
+    "p50_payment_days": 92,
+    "p90_payment_days": 103
+  },
+  {
+    "invoice_id": "INV703372",
+    "customer_id": "C1113",
+    "p10_payment_days": 87,
+    "p50_payment_days": 93,
+    "p90_payment_days": 103
+  },
+  {
+    "invoice_id": "INV703386",
+    "customer_id": "C1113",
+    "p10_payment_days": 88,
+    "p50_payment_days": 100,
+    "p90_payment_days": 104
+  },
+  {
+    "invoice_id": "INV703395",
+    "customer_id": "C1113",
+    "p10_payment_days": 87,
+    "p50_payment_days": 93,
+    "p90_payment_days": 103
+  },
+  {
+    "invoice_id": "INV703421",
+    "customer_id": "C1114",
+    "p10_payment_days": 57,
+    "p50_payment_days": 73,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703435",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 72,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703436",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 73,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703437",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 73,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703438",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 72,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703439",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 73,
+    "p90_payment_days": 85
+  },
+  {
+    "invoice_id": "INV703440",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 73,
+    "p90_payment_days": 87
+  },
+  {
+    "invoice_id": "INV703441",
+    "customer_id": "C1114",
+    "p10_payment_days": 58,
+    "p50_payment_days": 73,
+    "p90_payment_days": 86
+  },
+  {
+    "invoice_id": "INV703481",
+    "customer_id": "C1116",
+    "p10_payment_days": 41,
+    "p50_payment_days": 45,
+    "p90_payment_days": 49
+  },
+  {
+    "invoice_id": "INV703498",
+    "customer_id": "C1117",
+    "p10_payment_days": 66,
+    "p50_payment_days": 80,
+    "p90_payment_days": 90
+  },
+  {
+    "invoice_id": "INV703523",
+    "customer_id": "C1118",
+    "p10_payment_days": 65,
+    "p50_payment_days": 72,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV703524",
+    "customer_id": "C1118",
+    "p10_payment_days": 65,
+    "p50_payment_days": 72,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV703557",
+    "customer_id": "C1119",
+    "p10_payment_days": 59,
+    "p50_payment_days": 68,
+    "p90_payment_days": 81
+  },
+  {
+    "invoice_id": "INV703558",
+    "customer_id": "C1119",
+    "p10_payment_days": 59,
+    "p50_payment_days": 69,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV703607",
+    "customer_id": "C1120",
+    "p10_payment_days": 25,
+    "p50_payment_days": 27,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV703608",
+    "customer_id": "C1120",
+    "p10_payment_days": 25,
+    "p50_payment_days": 28,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV703609",
+    "customer_id": "C1120",
+    "p10_payment_days": 25,
+    "p50_payment_days": 28,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV703622",
+    "customer_id": "C1121",
+    "p10_payment_days": 32,
+    "p50_payment_days": 38,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV703665",
+    "customer_id": "C1122",
+    "p10_payment_days": 28,
+    "p50_payment_days": 42,
+    "p90_payment_days": 106
+  },
+  {
+    "invoice_id": "INV703666",
+    "customer_id": "C1122",
+    "p10_payment_days": 28,
+    "p50_payment_days": 40,
+    "p90_payment_days": 69
+  },
+  {
+    "invoice_id": "INV703713",
+    "customer_id": "C1123",
+    "p10_payment_days": 28,
+    "p50_payment_days": 34,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV703715",
+    "customer_id": "C1123",
+    "p10_payment_days": 28,
+    "p50_payment_days": 34,
+    "p90_payment_days": 48
+  },
+  {
+    "invoice_id": "INV703716",
+    "customer_id": "C1123",
+    "p10_payment_days": 28,
+    "p50_payment_days": 34,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV703816",
+    "customer_id": "C1127",
+    "p10_payment_days": 28,
+    "p50_payment_days": 35,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV703822",
+    "customer_id": "C1127",
+    "p10_payment_days": 28,
+    "p50_payment_days": 38,
+    "p90_payment_days": 43
+  },
+  {
+    "invoice_id": "INV703877",
+    "customer_id": "C1129",
+    "p10_payment_days": 55,
+    "p50_payment_days": 63,
+    "p90_payment_days": 66
+  },
+  {
+    "invoice_id": "INV703916",
+    "customer_id": "C1130",
+    "p10_payment_days": 42,
+    "p50_payment_days": 45,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV703926",
+    "customer_id": "C1131",
+    "p10_payment_days": 26,
+    "p50_payment_days": 31,
+    "p90_payment_days": 36
+  },
+  {
+    "invoice_id": "INV703956",
+    "customer_id": "C1131",
+    "p10_payment_days": 26,
+    "p50_payment_days": 31,
+    "p90_payment_days": 36
+  },
+  {
+    "invoice_id": "INV704031",
+    "customer_id": "C1133",
+    "p10_payment_days": 56,
+    "p50_payment_days": 65,
+    "p90_payment_days": 68
+  },
+  {
+    "invoice_id": "INV704032",
+    "customer_id": "C1133",
+    "p10_payment_days": 59,
+    "p50_payment_days": 66,
+    "p90_payment_days": 75
+  },
+  {
+    "invoice_id": "INV704040",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704059",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704072",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 93
+  },
+  {
+    "invoice_id": "INV704073",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 93
+  },
+  {
+    "invoice_id": "INV704074",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704075",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704076",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704077",
+    "customer_id": "C1134",
+    "p10_payment_days": 85,
+    "p50_payment_days": 89,
+    "p90_payment_days": 92
+  },
+  {
+    "invoice_id": "INV704121",
+    "customer_id": "C1135",
+    "p10_payment_days": 64,
+    "p50_payment_days": 68,
+    "p90_payment_days": 75
+  },
+  {
+    "invoice_id": "INV704122",
+    "customer_id": "C1135",
+    "p10_payment_days": 64,
+    "p50_payment_days": 69,
+    "p90_payment_days": 75
+  },
+  {
+    "invoice_id": "INV704126",
+    "customer_id": "C1135",
+    "p10_payment_days": 64,
+    "p50_payment_days": 68,
+    "p90_payment_days": 72
+  },
+  {
+    "invoice_id": "INV704166",
+    "customer_id": "C1137",
+    "p10_payment_days": 55,
+    "p50_payment_days": 60,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV704167",
+    "customer_id": "C1137",
+    "p10_payment_days": 55,
+    "p50_payment_days": 60,
+    "p90_payment_days": 64
+  },
+  {
+    "invoice_id": "INV704217",
+    "customer_id": "C1139",
+    "p10_payment_days": 59,
+    "p50_payment_days": 71,
+    "p90_payment_days": 78
+  },
+  {
+    "invoice_id": "INV704218",
+    "customer_id": "C1139",
+    "p10_payment_days": 53,
+    "p50_payment_days": 67,
+    "p90_payment_days": 77
+  },
+  {
+    "invoice_id": "INV704219",
+    "customer_id": "C1139",
+    "p10_payment_days": 61,
+    "p50_payment_days": 71,
+    "p90_payment_days": 77
+  },
+  {
+    "invoice_id": "INV704220",
+    "customer_id": "C1139",
+    "p10_payment_days": 53,
+    "p50_payment_days": 66,
+    "p90_payment_days": 77
+  },
+  {
+    "invoice_id": "INV704221",
+    "customer_id": "C1139",
+    "p10_payment_days": 59,
+    "p50_payment_days": 71,
+    "p90_payment_days": 77
+  },
+  {
+    "invoice_id": "INV704222",
+    "customer_id": "C1139",
+    "p10_payment_days": 53,
+    "p50_payment_days": 69,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV704292",
+    "customer_id": "C1142",
+    "p10_payment_days": 16,
+    "p50_payment_days": 26,
+    "p90_payment_days": 35
+  },
+  {
+    "invoice_id": "INV704293",
+    "customer_id": "C1142",
+    "p10_payment_days": 13,
+    "p50_payment_days": 28,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV704310",
+    "customer_id": "C1144",
+    "p10_payment_days": 22,
+    "p50_payment_days": 31,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV704328",
+    "customer_id": "C1144",
+    "p10_payment_days": 22,
+    "p50_payment_days": 30,
+    "p90_payment_days": 46
+  },
+  {
+    "invoice_id": "INV704356",
+    "customer_id": "C1145",
+    "p10_payment_days": 41,
+    "p50_payment_days": 44,
+    "p90_payment_days": 47
+  },
+  {
+    "invoice_id": "INV704393",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 106,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704396",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 110,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704397",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 106,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704398",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 108,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704399",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 106,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704400",
+    "customer_id": "C1146",
+    "p10_payment_days": 85,
+    "p50_payment_days": 106,
+    "p90_payment_days": 150
+  },
+  {
+    "invoice_id": "INV704416",
+    "customer_id": "C1147",
+    "p10_payment_days": 28,
+    "p50_payment_days": 35,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV704429",
+    "customer_id": "C1148",
+    "p10_payment_days": 84,
+    "p50_payment_days": 100,
+    "p90_payment_days": 115
+  },
+  {
+    "invoice_id": "INV704437",
+    "customer_id": "C1148",
+    "p10_payment_days": 84,
+    "p50_payment_days": 100,
+    "p90_payment_days": 115
+  },
+  {
+    "invoice_id": "INV704438",
+    "customer_id": "C1148",
+    "p10_payment_days": 84,
+    "p50_payment_days": 100,
+    "p90_payment_days": 115
+  },
+  {
+    "invoice_id": "INV704473",
+    "customer_id": "C1149",
+    "p10_payment_days": 42,
+    "p50_payment_days": 46,
+    "p90_payment_days": 53
+  },
+  {
+    "invoice_id": "INV704474",
+    "customer_id": "C1149",
+    "p10_payment_days": 42,
+    "p50_payment_days": 46,
+    "p90_payment_days": 53
+  },
+  {
+    "invoice_id": "INV704475",
+    "customer_id": "C1149",
+    "p10_payment_days": 41,
+    "p50_payment_days": 46,
+    "p90_payment_days": 53
+  },
+  {
+    "invoice_id": "INV704486",
+    "customer_id": "C1150",
+    "p10_payment_days": 38,
+    "p50_payment_days": 50,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV704518",
+    "customer_id": "C1152",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 74
+  },
+  {
+    "invoice_id": "INV704538",
+    "customer_id": "C1152",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 73
+  },
+  {
+    "invoice_id": "INV704539",
+    "customer_id": "C1152",
+    "p10_payment_days": 62,
+    "p50_payment_days": 71,
+    "p90_payment_days": 74
+  },
+  {
+    "invoice_id": "INV704540",
+    "customer_id": "C1152",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 73
+  },
+  {
+    "invoice_id": "INV704541",
+    "customer_id": "C1152",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 74
+  },
+  {
+    "invoice_id": "INV704542",
+    "customer_id": "C1152",
+    "p10_payment_days": 63,
+    "p50_payment_days": 71,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV704563",
+    "customer_id": "C1153",
+    "p10_payment_days": 38,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704577",
+    "customer_id": "C1153",
+    "p10_payment_days": 38,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704578",
+    "customer_id": "C1153",
+    "p10_payment_days": 39,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704579",
+    "customer_id": "C1153",
+    "p10_payment_days": 39,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704580",
+    "customer_id": "C1153",
+    "p10_payment_days": 39,
+    "p50_payment_days": 67,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704605",
+    "customer_id": "C1154",
+    "p10_payment_days": 43,
+    "p50_payment_days": 60,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704628",
+    "customer_id": "C1154",
+    "p10_payment_days": 43,
+    "p50_payment_days": 57,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704629",
+    "customer_id": "C1154",
+    "p10_payment_days": 43,
+    "p50_payment_days": 58,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704630",
+    "customer_id": "C1154",
+    "p10_payment_days": 43,
+    "p50_payment_days": 60,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704631",
+    "customer_id": "C1154",
+    "p10_payment_days": 44,
+    "p50_payment_days": 58,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704632",
+    "customer_id": "C1154",
+    "p10_payment_days": 43,
+    "p50_payment_days": 59,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV704670",
+    "customer_id": "C1155",
+    "p10_payment_days": 47,
+    "p50_payment_days": 76,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV704671",
+    "customer_id": "C1155",
+    "p10_payment_days": 47,
+    "p50_payment_days": 75,
+    "p90_payment_days": 96
+  },
+  {
+    "invoice_id": "INV704672",
+    "customer_id": "C1155",
+    "p10_payment_days": 47,
+    "p50_payment_days": 77,
+    "p90_payment_days": 96
+  },
+  {
+    "invoice_id": "INV704673",
+    "customer_id": "C1155",
+    "p10_payment_days": 47,
+    "p50_payment_days": 75,
+    "p90_payment_days": 100
+  },
+  {
+    "invoice_id": "INV704691",
+    "customer_id": "C1156",
+    "p10_payment_days": 56,
+    "p50_payment_days": 61,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV704721",
+    "customer_id": "C1157",
+    "p10_payment_days": 26,
+    "p50_payment_days": 30,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV704722",
+    "customer_id": "C1157",
+    "p10_payment_days": 25,
+    "p50_payment_days": 30,
+    "p90_payment_days": 33
+  },
+  {
+    "invoice_id": "INV704774",
+    "customer_id": "C1159",
+    "p10_payment_days": 43,
+    "p50_payment_days": 63,
+    "p90_payment_days": 82
+  },
+  {
+    "invoice_id": "INV704778",
+    "customer_id": "C1159",
+    "p10_payment_days": 42,
+    "p50_payment_days": 61,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV704779",
+    "customer_id": "C1159",
+    "p10_payment_days": 38,
+    "p50_payment_days": 61,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV704780",
+    "customer_id": "C1159",
+    "p10_payment_days": 38,
+    "p50_payment_days": 61,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV704781",
+    "customer_id": "C1159",
+    "p10_payment_days": 38,
+    "p50_payment_days": 61,
+    "p90_payment_days": 80
+  },
+  {
+    "invoice_id": "INV704807",
+    "customer_id": "C1160",
+    "p10_payment_days": 40,
+    "p50_payment_days": 48,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV704808",
+    "customer_id": "C1160",
+    "p10_payment_days": 40,
+    "p50_payment_days": 49,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV704809",
+    "customer_id": "C1160",
+    "p10_payment_days": 40,
+    "p50_payment_days": 49,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV704833",
+    "customer_id": "C1161",
+    "p10_payment_days": 26,
+    "p50_payment_days": 30,
+    "p90_payment_days": 32
+  },
+  {
+    "invoice_id": "INV704898",
+    "customer_id": "C1163",
+    "p10_payment_days": 41,
+    "p50_payment_days": 50,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV704899",
+    "customer_id": "C1163",
+    "p10_payment_days": 41,
+    "p50_payment_days": 50,
+    "p90_payment_days": 65
+  },
+  {
+    "invoice_id": "INV704923",
+    "customer_id": "C1164",
+    "p10_payment_days": 49,
+    "p50_payment_days": 57,
+    "p90_payment_days": 73
+  },
+  {
+    "invoice_id": "INV704938",
+    "customer_id": "C1164",
+    "p10_payment_days": 47,
+    "p50_payment_days": 58,
+    "p90_payment_days": 73
+  },
+  {
+    "invoice_id": "INV704969",
+    "customer_id": "C1165",
+    "p10_payment_days": 43,
+    "p50_payment_days": 49,
+    "p90_payment_days": 57
+  },
+  {
+    "invoice_id": "INV704970",
+    "customer_id": "C1165",
+    "p10_payment_days": 41,
+    "p50_payment_days": 49,
+    "p90_payment_days": 57
+  },
+  {
+    "invoice_id": "INV704971",
+    "customer_id": "C1165",
+    "p10_payment_days": 43,
+    "p50_payment_days": 50,
+    "p90_payment_days": 57
+  },
+  {
+    "invoice_id": "INV704972",
+    "customer_id": "C1165",
+    "p10_payment_days": 42,
+    "p50_payment_days": 49,
+    "p90_payment_days": 57
+  },
+  {
+    "invoice_id": "INV704993",
+    "customer_id": "C1166",
+    "p10_payment_days": 85,
+    "p50_payment_days": 95,
+    "p90_payment_days": 102
+  },
+  {
+    "invoice_id": "INV704994",
+    "customer_id": "C1166",
+    "p10_payment_days": 85,
+    "p50_payment_days": 95,
+    "p90_payment_days": 110
+  },
+  {
+    "invoice_id": "INV704995",
+    "customer_id": "C1166",
+    "p10_payment_days": 85,
+    "p50_payment_days": 95,
+    "p90_payment_days": 102
+  },
+  {
+    "invoice_id": "INV704996",
+    "customer_id": "C1166",
+    "p10_payment_days": 84,
+    "p50_payment_days": 95,
+    "p90_payment_days": 107
+  },
+  {
+    "invoice_id": "INV705021",
+    "customer_id": "C1168",
+    "p10_payment_days": 32,
+    "p50_payment_days": 43,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV705033",
+    "customer_id": "C1168",
+    "p10_payment_days": 32,
+    "p50_payment_days": 43,
+    "p90_payment_days": 58
+  },
+  {
+    "invoice_id": "INV705067",
+    "customer_id": "C1169",
+    "p10_payment_days": 75,
+    "p50_payment_days": 92,
+    "p90_payment_days": 113
+  },
+  {
+    "invoice_id": "INV705068",
+    "customer_id": "C1169",
+    "p10_payment_days": 75,
+    "p50_payment_days": 92,
+    "p90_payment_days": 113
+  },
+  {
+    "invoice_id": "INV705091",
+    "customer_id": "C1171",
+    "p10_payment_days": 29,
+    "p50_payment_days": 38,
+    "p90_payment_days": 44
+  },
+  {
+    "invoice_id": "INV705143",
+    "customer_id": "C1173",
+    "p10_payment_days": 22,
+    "p50_payment_days": 34,
+    "p90_payment_days": 53
+  },
+  {
+    "invoice_id": "INV705154",
+    "customer_id": "C1173",
+    "p10_payment_days": 22,
+    "p50_payment_days": 34,
+    "p90_payment_days": 50
+  },
+  {
+    "invoice_id": "INV705175",
+    "customer_id": "C1174",
+    "p10_payment_days": 40,
+    "p50_payment_days": 61,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV705189",
+    "customer_id": "C1174",
+    "p10_payment_days": 40,
+    "p50_payment_days": 61,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV705190",
+    "customer_id": "C1174",
+    "p10_payment_days": 40,
+    "p50_payment_days": 61,
+    "p90_payment_days": 76
+  },
+  {
+    "invoice_id": "INV705195",
+    "customer_id": "C1176",
+    "p10_payment_days": 38,
+    "p50_payment_days": 52,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705201",
+    "customer_id": "C1176",
+    "p10_payment_days": 38,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705237",
+    "customer_id": "C1176",
+    "p10_payment_days": 38,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705248",
+    "customer_id": "C1177",
+    "p10_payment_days": 42,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705263",
+    "customer_id": "C1177",
+    "p10_payment_days": 45,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705277",
+    "customer_id": "C1177",
+    "p10_payment_days": 43,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705278",
+    "customer_id": "C1177",
+    "p10_payment_days": 45,
+    "p50_payment_days": 51,
+    "p90_payment_days": 153
+  },
+  {
+    "invoice_id": "INV705305",
+    "customer_id": "C1179",
+    "p10_payment_days": 58,
+    "p50_payment_days": 64,
+    "p90_payment_days": 67
+  }
+]
