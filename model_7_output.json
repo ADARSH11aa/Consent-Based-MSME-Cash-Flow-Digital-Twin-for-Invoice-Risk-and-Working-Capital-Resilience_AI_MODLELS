@@ -1,0 +1,131 @@
+{
+  "recommendations": [
+    {
+      "rank": 1,
+      "strategy": "Invoice Financing",
+      "score": 67.38,
+      "cost": {
+        "amount": 307199.52,
+        "score": 37.5
+      },
+      "recovery": {
+        "days": 3,
+        "speed_score": 80.0
+      },
+      "liquidity": {
+        "gap_reduction_pct": 80,
+        "liquidity_score": 80.0
+      },
+      "risk": {
+        "level": "medium",
+        "score": 60.0
+      },
+      "explanation": "Invoice Financing received a strong overall ranking because It provides relatively fast liquidity recovery. Risk level is medium."
+    },
+    {
+      "rank": 2,
+      "strategy": "Combined Strategy",
+      "score": 66.62,
+      "cost": {
+        "amount": 184319.71,
+        "score": 62.5
+      },
+      "recovery": {
+        "days": 6,
+        "speed_score": 60.0
+      },
+      "liquidity": {
+        "gap_reduction_pct": 75,
+        "liquidity_score": 75.0
+      },
+      "risk": {
+        "level": "medium",
+        "score": 60.0
+      },
+      "explanation": "Combined Strategy received a strong overall ranking because It provides a strong reduction in the liquidity gap. Risk level is medium."
+    },
+    {
+      "rank": 3,
+      "strategy": "Early Customer Payment",
+      "score": 60.08,
+      "cost": {
+        "amount": 122879.81,
+        "score": 75.0
+      },
+      "recovery": {
+        "days": 7,
+        "speed_score": 53.33
+      },
+      "liquidity": {
+        "gap_reduction_pct": 45,
+        "liquidity_score": 45.0
+      },
+      "risk": {
+        "level": "low",
+        "score": 100.0
+      },
+      "explanation": "Early Customer Payment received a strong overall ranking because It has a relatively low risk profile. Risk level is low."
+    },
+    {
+      "rank": 4,
+      "strategy": "Working Capital Facility",
+      "score": 54.67,
+      "cost": {
+        "amount": 491519.23,
+        "score": 0
+      },
+      "recovery": {
+        "days": 5,
+        "speed_score": 66.67
+      },
+      "liquidity": {
+        "gap_reduction_pct": 90,
+        "liquidity_score": 90.0
+      },
+      "risk": {
+        "level": "high",
+        "score": 20.0
+      },
+      "explanation": "Working Capital Facility received a strong overall ranking because It provides a strong reduction in the liquidity gap. Risk level is high."
+    },
+    {
+      "rank": 5,
+      "strategy": "Supplier Payment Extension",
+      "score": 43.88,
+      "cost": {
+        "amount": 61439.9,
+        "score": 87.5
+      },
+      "recovery": {
+        "days": 15,
+        "speed_score": 0
+      },
+      "liquidity": {
+        "gap_reduction_pct": 30,
+        "liquidity_score": 30.0
+      },
+      "risk": {
+        "level": "low",
+        "score": 100.0
+      },
+      "explanation": "Supplier Payment Extension received a strong overall ranking because It has a relatively low risk profile. Risk level is low."
+    }
+  ],
+  "summary": {
+    "recommended_strategy": "Invoice Financing",
+    "recommended_score": 67.38,
+    "liquidity_gap": 12287980.67,
+    "overdue_invoice_count": 78,
+    "number_of_options_evaluated": 5,
+    "customers_analyzed": 180,
+    "average_payment_delay": 9.6,
+    "partial_payment_rate": 3.13,
+    "big_ticket_rate": 4.3
+  },
+  "weights": {
+    "cost": 0.25,
+    "speed": 0.25,
+    "liquidity": 0.4,
+    "risk": 0.1
+  }
+}
