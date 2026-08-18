@@ -1,15 +1,34 @@
+"""
+FastAPI serving layer for Model 1 (Payment Behaviour Prediction Engine).
+
+Run from the `app/` directory:
+    pip install fastapi uvicorn pydantic
+    uvicorn main:app --reload --port 8000
+
+Then Model 2 (Monte Carlo) calls http://localhost:8000/predict/open-invoices instead of
+reading a static JSON file - so any change (new invoice, corrected amount, invoice marked paid)
+is reflected the next time it's called, which is what your "live correction -> live recompute"
+demo moment needs.
+"""
+
+import os
 from datetime import date
 from pathlib import Path
 from typing import Literal
 
 import pandas as pd
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, UploadFile
 from pydantic import BaseModel
 
 from model1_inference import Model1Artifacts, predict_payment_window
+from ocr_extraction import extract_invoice
 
-MODEL_DIR = Path("models")
-RAW_INVOICES_PATH = Path("data/raw/invoices.csv")
+# Resolved relative to THIS FILE's location, not the working directory you launch uvicorn from -
+# so `uv run uvicorn main:app` works the same whether run from msme_cashflow/ or anywhere else.
+BASE_DIR = Path(__file__).resolve().parent
+
+MODEL_DIR = Path(os.environ.get("MODEL1_MODEL_DIR", BASE_DIR / "models"))
+RAW_INVOICES_PATH = Path(os.environ.get("MODEL1_DATA_PATH", BASE_DIR / "data" / "raw" / "invoices.csv"))
 
 app = FastAPI(title="Model 1 - Payment Prediction API")
 
@@ -127,3 +146,27 @@ def refresh_customer_stats():
     closed_history = raw[raw["status"] == "closed"].copy()
     artifacts.refresh_customer_stats(closed_history)
     return {"status": "refreshed", "customers": len(artifacts.customer_stats)}
+
+
+# ---------- Model 4: OCR extraction ----------
+
+@app.post("/extract/invoice")
+async def extract_invoice_endpoint(file: UploadFile):
+    """
+    Upload a PDF or image invoice. Returns per-field extracted values with confidence scores.
+    This is the entry point for the 'live correction' demo: show this output in the UI, let the
+    user edit any field flagged needs_verification=true, then POST the corrected invoice to
+    /predict/invoices to see the forecast update.
+    """
+    allowed_ext = {"pdf", "png", "jpg", "jpeg"}
+    ext = (file.filename or "").lower().rsplit(".", 1)[-1]
+    if ext not in allowed_ext:
+        raise HTTPException(status_code=400, detail=f"unsupported file type: .{ext}")
+
+    file_bytes = await file.read()
+    try:
+        result = extract_invoice(file_bytes, file.filename)
+    except Exception as e:
+        raise HTTPException(status_code=422, detail=f"extraction failed: {e}")
+
+    return result

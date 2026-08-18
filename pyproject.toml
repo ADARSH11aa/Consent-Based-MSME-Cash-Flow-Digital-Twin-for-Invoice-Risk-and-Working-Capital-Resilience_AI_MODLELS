@@ -9,13 +9,21 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "fastapi>=0.141.1",
+    "groq>=1.6.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.11.1",
     "numpy>=2.5.2",
     "pandas>=3.0.5",
+    "pillow>=12.3.0",
     "pydantic>=2.13.4",
+    "pymupdf>=1.28.2",
+    "pytesseract>=0.3.13",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.2.3",
+    "python-multipart>=0.0.32",
     "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
+    "shap>=0.52.0",
     "uvicorn>=0.52.3",
     "xgboost>=3.4.0",
 ]
