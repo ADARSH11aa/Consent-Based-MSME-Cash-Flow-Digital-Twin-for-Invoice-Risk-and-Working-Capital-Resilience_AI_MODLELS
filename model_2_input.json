@@ -1,0 +1,24 @@
+{
+  "forecast": [
+    {
+      "day": 0,
+      "cash_p10": 11212857.04,
+      "cash_p50": 13787040.22,
+      "cash_p90": 16384453.27,
+      "prob_breach": 0.0
+    },
+    {
+      "day": 1,
+      "cash_p10": 11212857.04,
+      "cash_p50": 13787040.22,
+      "cash_p90": 16384453.27,
+      "prob_breach": 0.0
+    }
+  ],
+  "summary": {
+    "expected_min_cash": 13801434.15,
+    "days_to_likely_breach": null,
+    "overdue_invoice_count": 78,
+    "overdue_invoice_value": 12287980.67
+  }
+}
